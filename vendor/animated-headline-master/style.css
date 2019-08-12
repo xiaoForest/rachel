@@ -2,7 +2,8 @@
 .cd-words-wrapper {
   display: inline-block;
   position: relative;
-  text-align: left;
+  width: 250px !important;
+  text-align: center;
 }
 .header .cd-headline {position: relative;display: inline-block;padding: 0 10px;}
 .header .cd-headline:after {
@@ -19,9 +20,12 @@
   display: inline-block;
   position: absolute;
   white-space: nowrap;
+  width: 100%;
   left: 0;
+  right: 0;
   top: 0;
   font-weight: normal;
+  text-align: center;
 }
 .cd-words-wrapper b i {font-style: normal;}
 .cd-words-wrapper b.is-visible {
