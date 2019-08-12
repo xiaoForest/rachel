@@ -2,8 +2,10 @@
   <defs>
     <style>
       .cls-1 {
-        font-size: 60px;
+        font-size: 40px;
         fill: #fefefe;
+        text-align: center;
+        widht:100%      
       }
 
       .cls-1, .cls-3 {
@@ -29,8 +31,7 @@
       }
     </style>
   </defs>
-  <text id="CV" class="cls-1" x="68.155" y="94.204">CV</text>
-  <circle class="cls-2" cx="167.5" cy="49.5" r="13.5"/>
-  <text id="R" class="cls-3" x="161.619" y="55.701">R</text>
+  <text  id="CV" class="cls-1" x="24" y="94.5">Rachel</text>
+ 
   <path class="cls-4" d="M0.005,145.886l0-.889,220,0.117L220,146Z"/>
 </svg>
